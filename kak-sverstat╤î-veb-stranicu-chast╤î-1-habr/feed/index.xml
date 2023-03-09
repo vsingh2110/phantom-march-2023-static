@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Как сверстать веб-страницу  Часть 1 Хабр	</title>
+	<atom:link href="/kak-sverstat%D1%8C-veb-stranicu-chast%D1%8C-1-habr/feed/" rel="self" type="application/rss+xml" />
+	<link>/kak-sverstat%d1%8c-veb-stranicu-chast%d1%8c-1-habr/</link>
+	<description>MRI &#38; CT Scan machine</description>
+	<lastBuildDate>Sat, 18 Feb 2023 05:14:32 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+</channel>
+</rss>
